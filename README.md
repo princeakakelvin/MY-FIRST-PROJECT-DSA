@@ -6,3 +6,4 @@ I have learnt a number of things ranging from MS Excelm, SQL and now portfolio b
 ### Data source [download here](https://www.markdownguide.org/cheat-sheet/)
 
 
+![pie_chart_2_1_lg](https://github.com/user-attachments/assets/96aaf241-8ce3-492e-a2b6-6514b5839359)
